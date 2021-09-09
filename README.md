@@ -63,7 +63,7 @@ this.grid.show();
 this.grid.placeAt(col,row,myImage);
 ```
 
-### alterantive usage 
+### alternative usage 
 
 ```this.grid = new AlignGrid(scene, number_of_cols, number_of_rows);
 //numbers the cells from 0-number of cells
@@ -90,5 +90,5 @@ Used for centering and scaling game objects
 ## interfaces
 There are a couple of interaces referenced in the code
 
--IBaseScene used for Scenes that extendsd BaseScene
--IGameObj used for Sprites, Images, Container or other Game Objects
+- IBaseScene used for Scenes that extendsd BaseScene
+- IGameObj used for Sprites, Images, Container or other Game Objects
