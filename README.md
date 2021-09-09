@@ -59,7 +59,8 @@ Creates a grid that will allow positioning by percentage
 
 ```this.grid = new AlignGrid(scene, number_of_cols, number_of_rows);
 this.grid.show();
-this.grid.placeAt(col,row,myImage);```
+this.grid.placeAt(col,row,myImage);
+```
 
 ### alterantive usage 
 
