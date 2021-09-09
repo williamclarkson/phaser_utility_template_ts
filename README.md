@@ -90,5 +90,5 @@ Used for centering and scaling game objects
 ## interfaces
 There are a couple of interaces referenced in the code
 
-IBaseScene - used for Scenes that extendsd BaseScene
-IGameObj - used for Sprites, Images, Container or other Game Objects
+-IBaseScene used for Scenes that extendsd BaseScene
+-IGameObj used for Sprites, Images, Container or other Game Objects
