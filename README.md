@@ -4,6 +4,23 @@ This is a Typscript version of the Phaser Utility Template
 
 It adds a few extra scaling features for using Phaser on Mobile devices
 
+## setting up
+
+### Clone the directory
+`https://github.com/williamclarkson/phaser_utility_template_ts`
+
+### install the dependecies
+
+`npm install`
+
+### run the game
+
+`npm start`
+
+### build the game
+
+`npm run-script build`
+
 # Classes
 
 ## BaseScene
