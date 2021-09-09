@@ -49,7 +49,8 @@ and call super.create(); in your create function
     {
         super.create();
     }
-}```
+}
+```
 
 ## AlignGrid
 
@@ -73,7 +74,8 @@ this.grid.placeAtIndex(25,myImage);```
 When using the baseScene you can call:
 
 ```this.makeGrid(11,11);
-this.grid.placeAt(5,5,myImage);```
+this.grid.placeAt(5,5,myImage);
+```
 
 ## Align
 
